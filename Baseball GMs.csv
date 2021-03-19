@@ -1,0 +1,796 @@
+GM,YearID,franchID,Team,CurrentWins,CurrentLosses,CurrentWPct,PreviousWins,PreviousLosses,PreviousWPct,POApp,DivWin,WCWin,LgWin,WSWin
+A.J. Preller,2015,SDP,San Diego Padres,74,88,0.457,77,85,0.475,0,0,0,0,0
+A.J. Preller,2016,SDP,San Diego Padres,68,94,0.42,74,88,0.457,0,0,0,0,0
+A.J. Preller,2017,SDP,San Diego Padres,71,91,0.438,68,94,0.42,0,0,0,0,0
+A.J. Preller,2018,SDP,San Diego Padres,66,96,0.407,71,91,0.438,0,0,0,0,0
+A.J. Preller,2019,SDP,San Diego Padres,70,92,0.432,66,96,0.407,0,0,0,0,0
+A.J. Preller,2020,SDP,San Diego Padres,37,23,0.617,70,92,0.432,1,0,1,0,0
+Al Avila,2016,DET,Detroit Tigers,86,75,0.534,74,87,0.46,0,0,0,0,0
+Al Avila,2017,DET,Detroit Tigers,64,98,0.395,86,75,0.534,0,0,0,0,0
+Al Avila,2018,DET,Detroit Tigers,64,98,0.395,64,98,0.395,0,0,0,0,0
+Al Avila,2019,DET,Detroit Tigers,47,114,0.292,64,98,0.395,0,0,0,0,0
+Al Avila,2020,DET,Detroit Tigers,23,35,0.397,47,114,0.292,0,0,0,0,0
+Alex Anthopoulos,2010,TOR,Toronto Blue Jays,85,77,0.525,75,87,0.463,0,0,0,0,0
+Alex Anthopoulos,2011,TOR,Toronto Blue Jays,81,81,0.5,85,77,0.525,0,0,0,0,0
+Alex Anthopoulos,2012,TOR,Toronto Blue Jays,73,89,0.451,81,81,0.5,0,0,0,0,0
+Alex Anthopoulos,2013,TOR,Toronto Blue Jays,74,88,0.457,73,89,0.451,0,0,0,0,0
+Alex Anthopoulos,2014,TOR,Toronto Blue Jays,83,79,0.512,74,88,0.457,0,0,0,0,0
+Alex Anthopoulos,2015,TOR,Toronto Blue Jays,93,69,0.574,83,79,0.512,1,1,0,0,0
+Alex Anthopoulos,2018,ATL,Atlanta Braves,90,72,0.556,72,90,0.444,1,1,0,0,0
+Alex Anthopoulos,2019,ATL,Atlanta Braves,97,65,0.599,90,72,0.556,1,1,0,0,0
+Alex Anthopoulos,2020,ATL,Atlanta Braves,35,25,0.583,97,65,0.599,1,1,0,0,0
+Allard Baird,2001,KCR,Kansas City Royals,65,97,0.401,77,85,0.475,0,0,0,0,0
+Allard Baird,2002,KCR,Kansas City Royals,62,100,0.383,65,97,0.401,0,0,0,0,0
+Allard Baird,2003,KCR,Kansas City Royals,83,79,0.512,62,100,0.383,0,0,0,0,0
+Allard Baird,2004,KCR,Kansas City Royals,58,104,0.358,83,79,0.512,0,0,0,0,0
+Allard Baird,2005,KCR,Kansas City Royals,56,106,0.346,58,104,0.358,0,0,0,0,0
+Allard Baird,2006,KCR,Kansas City Royals,62,100,0.383,56,106,0.346,0,0,0,0,0
+Andrew Friedman,2006,TBD,Tampa Bay Devil Rays,61,101,0.377,67,95,0.414,0,0,0,0,0
+Andrew Friedman,2007,TBD,Tampa Bay Devil Rays,66,96,0.407,61,101,0.377,0,0,0,0,0
+Andrew Friedman,2008,TBD,Tampa Bay Rays,97,65,0.599,66,96,0.407,1,1,0,1,0
+Andrew Friedman,2009,TBD,Tampa Bay Rays,84,78,0.519,97,65,0.599,0,0,0,0,0
+Andrew Friedman,2010,TBD,Tampa Bay Rays,96,66,0.593,84,78,0.519,1,1,0,0,0
+Andrew Friedman,2011,TBD,Tampa Bay Rays,91,71,0.562,96,66,0.593,1,0,1,0,0
+Andrew Friedman,2012,TBD,Tampa Bay Rays,90,72,0.556,91,71,0.562,0,0,0,0,0
+Andrew Friedman,2013,TBD,Tampa Bay Rays,92,71,0.564,90,72,0.556,1,0,1,0,0
+Andrew Friedman,2014,TBD,Tampa Bay Rays,77,85,0.475,92,71,0.564,0,0,0,0,0
+Andrew Friedman,2015,LAD,Los Angeles Dodgers,92,70,0.568,94,68,0.58,1,1,0,0,0
+Andrew Friedman,2016,LAD,Los Angeles Dodgers,91,71,0.562,92,70,0.568,1,1,0,0,0
+Andrew Friedman,2017,LAD,Los Angeles Dodgers,104,58,0.642,91,71,0.562,1,1,0,1,0
+Andrew Friedman,2018,LAD,Los Angeles Dodgers,92,71,0.564,104,58,0.642,1,1,0,1,0
+Andrew Friedman,2019,LAD,Los Angeles Dodgers,106,56,0.654,92,71,0.564,1,1,0,0,0
+Andrew Friedman,2020,LAD,Los Angeles Dodgers,43,17,0.717,106,56,0.654,1,1,0,1,1
+Andy MacPhail,2001,CHC,Chicago Cubs,88,74,0.543,65,97,0.401,0,0,0,0,0
+Andy MacPhail,2002,CHC,Chicago Cubs,67,95,0.414,88,74,0.543,0,0,0,0,0
+Andy MacPhail,2008,BAL,Baltimore Orioles,68,93,0.422,69,93,0.426,0,0,0,0,0
+Andy MacPhail,2009,BAL,Baltimore Orioles,64,98,0.395,68,93,0.422,0,0,0,0,0
+Andy MacPhail,2010,BAL,Baltimore Orioles,66,96,0.407,64,98,0.395,0,0,0,0,0
+Andy MacPhail,2011,BAL,Baltimore Orioles,69,93,0.426,66,96,0.407,0,0,0,0,0
+Ben Cherington,2012,BOS,Boston Red Sox,69,93,0.426,90,72,0.556,0,0,0,0,0
+Ben Cherington,2013,BOS,Boston Red Sox,97,65,0.599,69,93,0.426,1,1,0,1,1
+Ben Cherington,2014,BOS,Boston Red Sox,71,91,0.438,97,65,0.599,0,0,0,0,0
+Ben Cherington,2015,BOS,Boston Red Sox,78,84,0.481,71,91,0.438,0,0,0,0,0
+Ben Cherington,2020,PIT,Pittsburgh Pirates,19,41,0.317,69,93,0.426,0,0,0,0,0
+Bill Bavasi,1994,ANA,California Angels,47,68,0.409,71,91,0.438,0,0,0,0,0
+Bill Bavasi,1995,ANA,California Angels,78,67,0.538,47,68,0.409,0,0,0,0,0
+Bill Bavasi,1996,ANA,California Angels,70,91,0.435,78,67,0.538,0,0,0,0,0
+Bill Bavasi,1997,ANA,Anaheim Angels,84,78,0.519,70,91,0.435,0,0,0,0,0
+Bill Bavasi,1998,ANA,Anaheim Angels,85,77,0.525,84,78,0.519,0,0,0,0,0
+Bill Bavasi,1999,ANA,Anaheim Angels,70,92,0.432,85,77,0.525,0,0,0,0,0
+Bill Bavasi,2004,SEA,Seattle Mariners,63,99,0.389,93,69,0.574,0,0,0,0,0
+Bill Bavasi,2005,SEA,Seattle Mariners,69,93,0.426,63,99,0.389,0,0,0,0,0
+Bill Bavasi,2006,SEA,Seattle Mariners,78,84,0.481,69,93,0.426,0,0,0,0,0
+Bill Bavasi,2007,SEA,Seattle Mariners,88,74,0.543,78,84,0.481,0,0,0,0,0
+Bill Bavasi,2008,SEA,Seattle Mariners,61,101,0.377,88,74,0.543,0,0,0,0,0
+Bill Smith,2008,MIN,Minnesota Twins,88,75,0.54,79,83,0.488,0,0,0,0,0
+Bill Smith,2009,MIN,Minnesota Twins,87,76,0.534,88,75,0.54,1,1,0,0,0
+Bill Smith,2010,MIN,Minnesota Twins,94,68,0.58,87,76,0.534,1,1,0,0,0
+Bill Smith,2011,MIN,Minnesota Twins,63,99,0.389,94,68,0.58,0,0,0,0,0
+Bill Stoneman,2000,ANA,Anaheim Angels,82,80,0.506,70,92,0.432,0,0,0,0,0
+Bill Stoneman,2001,ANA,Anaheim Angels,75,87,0.463,82,80,0.506,0,0,0,0,0
+Bill Stoneman,2002,ANA,Anaheim Angels,99,63,0.611,75,87,0.463,1,0,1,1,1
+Bill Stoneman,2003,ANA,Anaheim Angels,77,85,0.475,99,63,0.611,0,0,0,0,0
+Bill Stoneman,2004,ANA,Anaheim Angels,92,70,0.568,77,85,0.475,1,1,0,0,0
+Bill Stoneman,2005,ANA,Los Angeles Angels of Anaheim,95,67,0.586,92,70,0.568,1,1,0,0,0
+Bill Stoneman,2006,ANA,Los Angeles Angels of Anaheim,89,73,0.549,95,67,0.586,0,0,0,0,0
+Bill Stoneman,2007,ANA,Los Angeles Angels of Anaheim,94,68,0.58,89,73,0.549,1,1,0,0,0
+Billy Beane,1998,OAK,Oakland Athletics,74,88,0.457,65,97,0.401,0,0,0,0,0
+Billy Beane,1999,OAK,Oakland Athletics,87,75,0.537,74,88,0.457,0,0,0,0,0
+Billy Beane,2000,OAK,Oakland Athletics,91,70,0.565,87,75,0.537,1,1,0,0,0
+Billy Beane,2001,OAK,Oakland Athletics,102,60,0.63,91,70,0.565,1,0,1,0,0
+Billy Beane,2002,OAK,Oakland Athletics,103,59,0.636,102,60,0.63,1,1,0,0,0
+Billy Beane,2003,OAK,Oakland Athletics,96,66,0.593,103,59,0.636,1,1,0,0,0
+Billy Beane,2004,OAK,Oakland Athletics,91,71,0.562,96,66,0.593,0,0,0,0,0
+Billy Beane,2005,OAK,Oakland Athletics,88,74,0.543,91,71,0.562,0,0,0,0,0
+Billy Beane,2006,OAK,Oakland Athletics,93,69,0.574,88,74,0.543,1,1,0,0,0
+Billy Beane,2007,OAK,Oakland Athletics,76,86,0.469,93,69,0.574,0,0,0,0,0
+Billy Beane,2008,OAK,Oakland Athletics,75,86,0.466,76,86,0.469,0,0,0,0,0
+Billy Beane,2009,OAK,Oakland Athletics,75,87,0.463,75,86,0.466,0,0,0,0,0
+Billy Beane,2010,OAK,Oakland Athletics,81,81,0.5,75,87,0.463,0,0,0,0,0
+Billy Beane,2011,OAK,Oakland Athletics,74,88,0.457,81,81,0.5,0,0,0,0,0
+Billy Beane,2012,OAK,Oakland Athletics,94,68,0.58,74,88,0.457,1,1,0,0,0
+Billy Beane,2013,OAK,Oakland Athletics,96,66,0.593,94,68,0.58,1,1,0,0,0
+Billy Beane,2014,OAK,Oakland Athletics,88,74,0.543,96,66,0.593,1,0,1,0,0
+Billy Beane,2015,OAK,Oakland Athletics,68,94,0.42,88,74,0.543,0,0,0,0,0
+Billy Beane,2016,OAK,Oakland Athletics,69,93,0.426,68,94,0.42,0,0,0,0,0
+Billy Beane,2017,OAK,Oakland Athletics,75,87,0.463,69,93,0.426,0,0,0,0,0
+Billy Beane,2018,OAK,Oakland Athletics,97,65,0.599,75,87,0.463,1,0,1,0,0
+Billy Beane,2019,OAK,Oakland Athletics,97,65,0.599,97,65,0.599,1,0,1,0,0
+Billy Beane,2020,OAK,Oakland Athletics,36,24,0.6,97,65,0.599,1,1,0,0,0
+Billy Eppler,2016,ANA,Los Angeles Angels of Anaheim,74,88,0.457,85,77,0.525,0,0,0,0,0
+Billy Eppler,2017,ANA,Los Angeles Angels of Anaheim,80,82,0.494,74,88,0.457,0,0,0,0,0
+Billy Eppler,2018,ANA,Los Angeles Angels of Anaheim,80,82,0.494,80,82,0.494,0,0,0,0,0
+Billy Eppler,2019,ANA,Los Angeles Angels of Anaheim,72,90,0.444,80,82,0.494,0,0,0,0,0
+Billy Eppler,2020,ANA,Los Angeles Angels of Anaheim,26,34,0.433,72,90,0.444,0,0,0,0,0
+Bob Gebhard,1993,COL,Colorado Rockies,67,95,0.414,0,0,0,0,0,0,0,0
+Bob Gebhard,1994,COL,Colorado Rockies,53,64,0.453,67,95,0.414,0,0,0,0,0
+Bob Gebhard,1995,COL,Colorado Rockies,77,67,0.535,53,64,0.453,1,0,1,0,0
+Bob Gebhard,1996,COL,Colorado Rockies,83,79,0.512,77,67,0.535,0,0,0,0,0
+Bob Gebhard,1997,COL,Colorado Rockies,83,79,0.512,83,79,0.512,0,0,0,0,0
+Bob Gebhard,1998,COL,Colorado Rockies,77,85,0.475,83,79,0.512,0,0,0,0,0
+Bob Gebhard,1999,COL,Colorado Rockies,72,90,0.444,77,85,0.475,0,0,0,0,0
+Bobby Evans,2015,SFG,San Francisco Giants,84,78,0.519,88,74,0.543,0,0,0,0,0
+Bobby Evans,2016,SFG,San Francisco Giants,87,75,0.537,84,78,0.519,1,0,1,0,0
+Bobby Evans,2017,SFG,San Francisco Giants,64,98,0.395,87,75,0.537,0,0,0,0,0
+Bobby Evans,2018,SFG,San Francisco Giants,73,89,0.451,64,98,0.395,0,0,0,0,0
+Brian Cashman,1998,NYY,New York Yankees,114,48,0.704,96,66,0.593,1,1,0,1,1
+Brian Cashman,1999,NYY,New York Yankees,98,64,0.605,114,48,0.704,1,1,0,1,1
+Brian Cashman,2000,NYY,New York Yankees,87,74,0.54,98,64,0.605,1,1,0,1,1
+Brian Cashman,2001,NYY,New York Yankees,95,65,0.594,87,74,0.54,1,1,0,1,0
+Brian Cashman,2002,NYY,New York Yankees,103,58,0.64,95,65,0.594,1,1,0,0,0
+Brian Cashman,2003,NYY,New York Yankees,101,61,0.623,103,58,0.64,1,1,0,1,0
+Brian Cashman,2004,NYY,New York Yankees,101,61,0.623,101,61,0.623,1,1,0,0,0
+Brian Cashman,2005,NYY,New York Yankees,95,67,0.586,101,61,0.623,1,1,0,0,0
+Brian Cashman,2006,NYY,New York Yankees,97,65,0.599,95,67,0.586,1,1,0,0,0
+Brian Cashman,2007,NYY,New York Yankees,94,68,0.58,97,65,0.599,1,0,1,0,0
+Brian Cashman,2008,NYY,New York Yankees,89,73,0.549,94,68,0.58,0,0,0,0,0
+Brian Cashman,2009,NYY,New York Yankees,103,59,0.636,89,73,0.549,1,1,0,1,1
+Brian Cashman,2010,NYY,New York Yankees,95,67,0.586,103,59,0.636,1,0,1,0,0
+Brian Cashman,2011,NYY,New York Yankees,97,65,0.599,95,67,0.586,1,1,0,0,0
+Brian Cashman,2012,NYY,New York Yankees,95,67,0.586,97,65,0.599,1,1,0,0,0
+Brian Cashman,2013,NYY,New York Yankees,85,77,0.525,95,67,0.586,0,0,0,0,0
+Brian Cashman,2014,NYY,New York Yankees,84,78,0.519,85,77,0.525,0,0,0,0,0
+Brian Cashman,2015,NYY,New York Yankees,87,75,0.537,84,78,0.519,1,0,1,0,0
+Brian Cashman,2016,NYY,New York Yankees,84,78,0.519,87,75,0.537,0,0,0,0,0
+Brian Cashman,2017,NYY,New York Yankees,91,71,0.562,84,78,0.519,1,0,1,0,0
+Brian Cashman,2018,NYY,New York Yankees,100,62,0.617,91,71,0.562,1,0,1,0,0
+Brian Cashman,2019,NYY,New York Yankees,103,59,0.636,100,62,0.617,1,1,0,0,0
+Brian Cashman,2020,NYY,New York Yankees,33,27,0.55,103,59,0.636,1,0,1,0,0
+Brian Sabean,1997,SFG,San Francisco Giants,90,72,0.556,68,94,0.42,1,1,0,0,0
+Brian Sabean,1998,SFG,San Francisco Giants,89,74,0.546,90,72,0.556,0,0,0,0,0
+Brian Sabean,1999,SFG,San Francisco Giants,86,76,0.531,89,74,0.546,0,0,0,0,0
+Brian Sabean,2000,SFG,San Francisco Giants,97,65,0.599,86,76,0.531,1,1,0,0,0
+Brian Sabean,2001,SFG,San Francisco Giants,90,72,0.556,97,65,0.599,0,0,0,0,0
+Brian Sabean,2002,SFG,San Francisco Giants,95,66,0.59,90,72,0.556,1,0,1,1,0
+Brian Sabean,2003,SFG,San Francisco Giants,100,61,0.621,95,66,0.59,1,1,0,0,0
+Brian Sabean,2004,SFG,San Francisco Giants,91,71,0.562,100,61,0.621,0,0,0,0,0
+Brian Sabean,2005,SFG,San Francisco Giants,75,87,0.463,91,71,0.562,0,0,0,0,0
+Brian Sabean,2006,SFG,San Francisco Giants,76,85,0.472,75,87,0.463,0,0,0,0,0
+Brian Sabean,2007,SFG,San Francisco Giants,71,91,0.438,76,85,0.472,0,0,0,0,0
+Brian Sabean,2008,SFG,San Francisco Giants,72,90,0.444,71,91,0.438,0,0,0,0,0
+Brian Sabean,2009,SFG,San Francisco Giants,88,74,0.543,72,90,0.444,0,0,0,0,0
+Brian Sabean,2010,SFG,San Francisco Giants,92,70,0.568,88,74,0.543,1,1,0,1,1
+Brian Sabean,2011,SFG,San Francisco Giants,86,76,0.531,92,70,0.568,0,0,0,0,0
+Brian Sabean,2012,SFG,San Francisco Giants,94,68,0.58,86,76,0.531,1,1,0,1,1
+Brian Sabean,2013,SFG,San Francisco Giants,76,86,0.469,94,68,0.58,0,0,0,0,0
+Brian Sabean,2014,SFG,San Francisco Giants,88,74,0.543,76,86,0.469,1,0,1,1,1
+Brodie Van Wagenen,2019,NYM,New York Mets,86,76,0.531,77,85,0.475,0,0,0,0,0
+Brodie Van Wagenen,2020,NYM,New York Mets,26,34,0.433,86,76,0.531,0,0,0,0,0
+Cam Bonifay,1994,PIT,Pittsburgh Pirates,53,61,0.465,75,87,0.463,0,0,0,0,0
+Cam Bonifay,1995,PIT,Pittsburgh Pirates,58,86,0.403,53,61,0.465,0,0,0,0,0
+Cam Bonifay,1996,PIT,Pittsburgh Pirates,73,89,0.451,58,86,0.403,0,0,0,0,0
+Cam Bonifay,1997,PIT,Pittsburgh Pirates,79,83,0.488,73,89,0.451,0,0,0,0,0
+Cam Bonifay,1998,PIT,Pittsburgh Pirates,69,93,0.426,79,83,0.488,0,0,0,0,0
+Cam Bonifay,1999,PIT,Pittsburgh Pirates,78,83,0.484,69,93,0.426,0,0,0,0,0
+Cam Bonifay,2000,PIT,Pittsburgh Pirates,69,93,0.426,78,83,0.484,0,0,0,0,0
+Cam Bonifay,2001,PIT,Pittsburgh Pirates,62,100,0.383,69,93,0.426,0,0,0,0,0
+Chaim Bloom,2020,BOS,Boston Red Sox,24,36,0.4,84,78,0.519,0,0,0,0,0
+Chris Antonetti,2016,CLE,Cleveland Indians,94,67,0.584,81,80,0.503,1,1,0,1,0
+Chris Antonetti,2017,CLE,Cleveland Indians,102,60,0.63,94,67,0.584,1,1,0,0,0
+Chris Antonetti,2018,CLE,Cleveland Indians,91,71,0.562,102,60,0.63,1,1,0,0,0
+Chris Antonetti,2019,CLE,Cleveland Indians,93,69,0.574,91,71,0.562,0,0,0,0,0
+Chris Antonetti,2020,CLE,Cleveland Indians,35,25,0.583,93,69,0.574,1,0,1,0,0
+Chuck LaMar,1998,TBD,Tampa Bay Devil Rays,63,99,0.389,0,0,0,0,0,0,0,0
+Chuck LaMar,1999,TBD,Tampa Bay Devil Rays,69,93,0.426,63,99,0.389,0,0,0,0,0
+Chuck LaMar,2000,TBD,Tampa Bay Devil Rays,69,92,0.429,69,93,0.426,0,0,0,0,0
+Chuck LaMar,2001,TBD,Tampa Bay Devil Rays,62,100,0.383,69,92,0.429,0,0,0,0,0
+Chuck LaMar,2002,TBD,Tampa Bay Devil Rays,55,106,0.342,62,100,0.383,0,0,0,0,0
+Chuck LaMar,2003,TBD,Tampa Bay Devil Rays,63,99,0.389,55,106,0.342,0,0,0,0,0
+Chuck LaMar,2004,TBD,Tampa Bay Devil Rays,70,91,0.435,63,99,0.389,0,0,0,0,0
+Chuck LaMar,2005,TBD,Tampa Bay Devil Rays,67,95,0.414,70,91,0.435,0,0,0,0,0
+Dan Duquette,1994,BOS,Boston Red Sox,54,61,0.47,80,82,0.494,0,0,0,0,0
+Dan Duquette,1995,BOS,Boston Red Sox,86,58,0.597,54,61,0.47,1,1,0,0,0
+Dan Duquette,1996,BOS,Boston Red Sox,85,77,0.525,86,58,0.597,0,0,0,0,0
+Dan Duquette,1997,BOS,Boston Red Sox,78,84,0.481,85,77,0.525,0,0,0,0,0
+Dan Duquette,1998,BOS,Boston Red Sox,92,70,0.568,78,84,0.481,1,0,1,0,0
+Dan Duquette,1999,BOS,Boston Red Sox,94,68,0.58,92,70,0.568,1,0,1,0,0
+Dan Duquette,2000,BOS,Boston Red Sox,85,77,0.525,94,68,0.58,0,0,0,0,0
+Dan Duquette,2001,BOS,Boston Red Sox,82,79,0.509,85,77,0.525,0,0,0,0,0
+Dan Duquette,2012,BAL,Baltimore Orioles,93,69,0.574,69,93,0.426,1,0,1,0,0
+Dan Duquette,2013,BAL,Baltimore Orioles,85,77,0.525,93,69,0.574,0,0,0,0,0
+Dan Duquette,2014,BAL,Baltimore Orioles,96,66,0.593,85,77,0.525,1,1,0,0,0
+Dan Duquette,2015,BAL,Baltimore Orioles,81,81,0.5,96,66,0.593,0,0,0,0,0
+Dan Duquette,2016,BAL,Baltimore Orioles,89,73,0.549,81,81,0.5,1,0,1,0,0
+Dan Duquette,2017,BAL,Baltimore Orioles,75,87,0.463,89,73,0.549,0,0,0,0,0
+Dan Duquette,2018,BAL,Baltimore Orioles,47,115,0.29,75,87,0.463,0,0,0,0,0
+Dan Evans,2002,LAD,Los Angeles Dodgers,92,70,0.568,86,76,0.531,0,0,0,0,0
+Dan Evans,2003,LAD,Los Angeles Dodgers,85,77,0.525,92,70,0.568,0,0,0,0,0
+Dan Jennings,2014,FLA,Miami Marlins,77,85,0.475,62,100,0.383,0,0,0,0,0
+Dan Jennings,2015,FLA,Miami Marlins,71,91,0.438,77,85,0.475,0,0,0,0,0
+Dan O'Brien Jr.,2004,CIN,Cincinnati Reds,76,86,0.469,69,93,0.426,0,0,0,0,0
+Dan O'Brien Jr.,2005,CIN,Cincinnati Reds,73,89,0.451,76,86,0.469,0,0,0,0,0
+Dan O'Dowd,2000,COL,Colorado Rockies,82,80,0.506,72,90,0.444,0,0,0,0,0
+Dan O'Dowd,2001,COL,Colorado Rockies,73,89,0.451,82,80,0.506,0,0,0,0,0
+Dan O'Dowd,2002,COL,Colorado Rockies,73,89,0.451,73,89,0.451,0,0,0,0,0
+Dan O'Dowd,2003,COL,Colorado Rockies,74,88,0.457,73,89,0.451,0,0,0,0,0
+Dan O'Dowd,2004,COL,Colorado Rockies,68,94,0.42,74,88,0.457,0,0,0,0,0
+Dan O'Dowd,2005,COL,Colorado Rockies,67,95,0.414,68,94,0.42,0,0,0,0,0
+Dan O'Dowd,2006,COL,Colorado Rockies,76,86,0.469,67,95,0.414,0,0,0,0,0
+Dan O'Dowd,2007,COL,Colorado Rockies,90,73,0.552,76,86,0.469,1,0,1,1,0
+Dan O'Dowd,2008,COL,Colorado Rockies,74,88,0.457,90,73,0.552,0,0,0,0,0
+Dan O'Dowd,2009,COL,Colorado Rockies,92,70,0.568,74,88,0.457,1,0,1,0,0
+Dan O'Dowd,2010,COL,Colorado Rockies,83,79,0.512,92,70,0.568,0,0,0,0,0
+Dan O'Dowd,2011,COL,Colorado Rockies,73,89,0.451,83,79,0.512,0,0,0,0,0
+Dan O'Dowd,2012,COL,Colorado Rockies,64,98,0.395,73,89,0.451,0,0,0,0,0
+Dan O'Dowd,2013,COL,Colorado Rockies,74,88,0.457,64,98,0.395,0,0,0,0,0
+Dan O'Dowd,2014,COL,Colorado Rockies,66,96,0.407,74,88,0.457,0,0,0,0,0
+Dave Dombrowski,1993,FLA,Florida Marlins,64,98,0.395,0,0,0,0,0,0,0,0
+Dave Dombrowski,1994,FLA,Florida Marlins,51,64,0.443,64,98,0.395,0,0,0,0,0
+Dave Dombrowski,1995,FLA,Florida Marlins,67,76,0.469,51,64,0.443,0,0,0,0,0
+Dave Dombrowski,1996,FLA,Florida Marlins,80,82,0.494,67,76,0.469,0,0,0,0,0
+Dave Dombrowski,1997,FLA,Florida Marlins,92,70,0.568,80,82,0.494,1,0,1,1,1
+Dave Dombrowski,1998,FLA,Florida Marlins,54,108,0.333,92,70,0.568,0,0,0,0,0
+Dave Dombrowski,1999,FLA,Florida Marlins,64,98,0.395,54,108,0.333,0,0,0,0,0
+Dave Dombrowski,2000,FLA,Florida Marlins,79,82,0.491,64,98,0.395,0,0,0,0,0
+Dave Dombrowski,2001,FLA,Florida Marlins,76,86,0.469,79,82,0.491,0,0,0,0,0
+Dave Dombrowski,2003,DET,Detroit Tigers,43,119,0.265,55,106,0.342,0,0,0,0,0
+Dave Dombrowski,2004,DET,Detroit Tigers,72,90,0.444,43,119,0.265,0,0,0,0,0
+Dave Dombrowski,2005,DET,Detroit Tigers,71,91,0.438,72,90,0.444,0,0,0,0,0
+Dave Dombrowski,2006,DET,Detroit Tigers,95,67,0.586,71,91,0.438,1,0,1,1,0
+Dave Dombrowski,2007,DET,Detroit Tigers,88,74,0.543,95,67,0.586,0,0,0,0,0
+Dave Dombrowski,2008,DET,Detroit Tigers,74,88,0.457,88,74,0.543,0,0,0,0,0
+Dave Dombrowski,2009,DET,Detroit Tigers,86,77,0.528,74,88,0.457,0,0,0,0,0
+Dave Dombrowski,2010,DET,Detroit Tigers,81,81,0.5,86,77,0.528,0,0,0,0,0
+Dave Dombrowski,2011,DET,Detroit Tigers,95,67,0.586,81,81,0.5,1,1,0,0,0
+Dave Dombrowski,2012,DET,Detroit Tigers,88,74,0.543,95,67,0.586,1,1,0,1,0
+Dave Dombrowski,2013,DET,Detroit Tigers,93,69,0.574,88,74,0.543,1,1,0,0,0
+Dave Dombrowski,2014,DET,Detroit Tigers,90,72,0.556,93,69,0.574,1,1,0,0,0
+Dave Dombrowski,2015,DET,Detroit Tigers,74,87,0.46,90,72,0.556,0,0,0,0,0
+Dave Dombrowski,2016,BOS,Boston Red Sox,93,69,0.574,78,84,0.481,1,1,0,0,0
+Dave Dombrowski,2017,BOS,Boston Red Sox,93,69,0.574,93,69,0.574,1,1,0,0,0
+Dave Dombrowski,2018,BOS,Boston Red Sox,108,54,0.667,93,69,0.574,1,1,0,1,1
+Dave Dombrowski,2019,BOS,Boston Red Sox,84,78,0.519,108,54,0.667,0,0,0,0,0
+Dave Littlefield,2002,PIT,Pittsburgh Pirates,72,89,0.447,62,100,0.383,0,0,0,0,0
+Dave Littlefield,2003,PIT,Pittsburgh Pirates,75,87,0.463,72,89,0.447,0,0,0,0,0
+Dave Littlefield,2004,PIT,Pittsburgh Pirates,72,89,0.447,75,87,0.463,0,0,0,0,0
+Dave Littlefield,2005,PIT,Pittsburgh Pirates,67,95,0.414,72,89,0.447,0,0,0,0,0
+Dave Littlefield,2006,PIT,Pittsburgh Pirates,67,95,0.414,67,95,0.414,0,0,0,0,0
+Dave Littlefield,2007,PIT,Pittsburgh Pirates,68,94,0.42,67,95,0.414,0,0,0,0,0
+Dave Stewart,2015,ARI,Arizona Diamondbacks,79,83,0.488,64,98,0.395,0,0,0,0,0
+Dave Stewart,2016,ARI,Arizona Diamondbacks,69,93,0.426,79,83,0.488,0,0,0,0,0
+Dave Wallace,2001,LAD,Los Angeles Dodgers,86,76,0.531,86,76,0.531,0,0,0,0,0
+David Stearns,2016,MIL,Milwaukee Brewers,73,89,0.451,68,94,0.42,0,0,0,0,0
+David Stearns,2017,MIL,Milwaukee Brewers,86,76,0.531,73,89,0.451,0,0,0,0,0
+David Stearns,2018,MIL,Milwaukee Brewers,96,67,0.589,86,76,0.531,1,1,0,0,0
+David Stearns,2019,MIL,Milwaukee Brewers,89,73,0.549,96,67,0.589,1,0,1,0,0
+David Stearns,2020,MIL,Milwaukee Brewers,29,31,0.483,89,73,0.549,1,0,1,0,0
+Dayton Moore,2007,KCR,Kansas City Royals,69,93,0.426,62,100,0.383,0,0,0,0,0
+Dayton Moore,2008,KCR,Kansas City Royals,75,87,0.463,69,93,0.426,0,0,0,0,0
+Dayton Moore,2009,KCR,Kansas City Royals,65,97,0.401,75,87,0.463,0,0,0,0,0
+Dayton Moore,2010,KCR,Kansas City Royals,67,95,0.414,65,97,0.401,0,0,0,0,0
+Dayton Moore,2011,KCR,Kansas City Royals,71,91,0.438,67,95,0.414,0,0,0,0,0
+Dayton Moore,2012,KCR,Kansas City Royals,72,90,0.444,71,91,0.438,0,0,0,0,0
+Dayton Moore,2013,KCR,Kansas City Royals,86,76,0.531,72,90,0.444,0,0,0,0,0
+Dayton Moore,2014,KCR,Kansas City Royals,89,73,0.549,86,76,0.531,1,0,1,1,0
+Dayton Moore,2015,KCR,Kansas City Royals,95,67,0.586,89,73,0.549,1,1,0,1,1
+Dayton Moore,2016,KCR,Kansas City Royals,81,81,0.5,95,67,0.586,0,0,0,0,0
+Dayton Moore,2017,KCR,Kansas City Royals,80,82,0.494,81,81,0.5,0,0,0,0,0
+Dayton Moore,2018,KCR,Kansas City Royals,58,104,0.358,80,82,0.494,0,0,0,0,0
+Dayton Moore,2019,KCR,Kansas City Royals,59,103,0.364,58,104,0.358,0,0,0,0,0
+Dayton Moore,2020,KCR,Kansas City Royals,26,34,0.433,59,103,0.364,0,0,0,0,0
+Dean Taylor,2000,MIL,Milwaukee Brewers,73,89,0.451,74,87,0.46,0,0,0,0,0
+Dean Taylor,2001,MIL,Milwaukee Brewers,68,94,0.42,73,89,0.451,0,0,0,0,0
+Dean Taylor,2002,MIL,Milwaukee Brewers,56,106,0.346,68,94,0.42,0,0,0,0,0
+Derek Falvey,2017,MIN,Minnesota Twins,85,77,0.525,59,103,0.364,1,0,1,0,0
+Derek Falvey,2018,MIN,Minnesota Twins,78,84,0.481,85,77,0.525,0,0,0,0,0
+Derek Falvey,2019,MIN,Minnesota Twins,101,61,0.623,78,84,0.481,1,1,0,0,0
+Derek Falvey,2020,MIN,Minnesota Twins,36,24,0.6,101,61,0.623,1,1,0,0,0
+Derek Jeter,2018,FLA,Miami Marlins,63,98,0.391,77,85,0.475,0,0,0,0,0
+Derek Jeter,2019,FLA,Miami Marlins,57,105,0.352,63,98,0.391,0,0,0,0,0
+Derek Jeter,2020,FLA,Miami Marlins,31,29,0.517,57,105,0.352,1,0,1,0,0
+Dick Williams,2017,CIN,Cincinnati Reds,68,94,0.42,68,94,0.42,0,0,0,0,0
+Dick Williams,2018,CIN,Cincinnati Reds,67,95,0.414,68,94,0.42,0,0,0,0,0
+Dick Williams,2019,CIN,Cincinnati Reds,75,87,0.463,67,95,0.414,0,0,0,0,0
+Dick Williams,2020,CIN,Cincinnati Reds,31,29,0.517,75,87,0.463,1,0,1,0,0
+Douglas Melvin,1995,TEX,Texas Rangers,74,70,0.514,52,62,0.456,0,0,0,0,0
+Douglas Melvin,1996,TEX,Texas Rangers,90,72,0.556,74,70,0.514,1,1,0,0,0
+Douglas Melvin,1997,TEX,Texas Rangers,77,85,0.475,90,72,0.556,0,0,0,0,0
+Douglas Melvin,1998,TEX,Texas Rangers,88,74,0.543,77,85,0.475,1,1,0,0,0
+Douglas Melvin,1999,TEX,Texas Rangers,95,67,0.586,88,74,0.543,1,1,0,0,0
+Douglas Melvin,2000,TEX,Texas Rangers,71,91,0.438,95,67,0.586,0,0,0,0,0
+Douglas Melvin,2001,TEX,Texas Rangers,73,89,0.451,71,91,0.438,0,0,0,0,0
+Douglas Melvin,2003,MIL,Milwaukee Brewers,68,94,0.42,56,106,0.346,0,0,0,0,0
+Douglas Melvin,2004,MIL,Milwaukee Brewers,67,94,0.416,68,94,0.42,0,0,0,0,0
+Douglas Melvin,2005,MIL,Milwaukee Brewers,81,81,0.5,67,94,0.416,0,0,0,0,0
+Douglas Melvin,2006,MIL,Milwaukee Brewers,75,87,0.463,81,81,0.5,0,0,0,0,0
+Douglas Melvin,2007,MIL,Milwaukee Brewers,83,79,0.512,75,87,0.463,0,0,0,0,0
+Douglas Melvin,2008,MIL,Milwaukee Brewers,90,72,0.556,83,79,0.512,1,0,1,0,0
+Douglas Melvin,2009,MIL,Milwaukee Brewers,80,82,0.494,90,72,0.556,0,0,0,0,0
+Douglas Melvin,2010,MIL,Milwaukee Brewers,77,85,0.475,80,82,0.494,0,0,0,0,0
+Douglas Melvin,2011,MIL,Milwaukee Brewers,96,66,0.593,77,85,0.475,1,1,0,0,0
+Douglas Melvin,2012,MIL,Milwaukee Brewers,83,79,0.512,96,66,0.593,0,0,0,0,0
+Douglas Melvin,2013,MIL,Milwaukee Brewers,74,88,0.457,83,79,0.512,0,0,0,0,0
+Douglas Melvin,2014,MIL,Milwaukee Brewers,82,80,0.506,74,88,0.457,0,0,0,0,0
+Douglas Melvin,2015,MIL,Milwaukee Brewers,68,94,0.42,82,80,0.506,0,0,0,0,0
+Ed Lynch,1995,CHC,Chicago Cubs,73,71,0.507,49,64,0.434,0,0,0,0,0
+Ed Lynch,1996,CHC,Chicago Cubs,76,86,0.469,73,71,0.507,0,0,0,0,0
+Ed Lynch,1997,CHC,Chicago Cubs,68,94,0.42,76,86,0.469,0,0,0,0,0
+Ed Lynch,1998,CHC,Chicago Cubs,90,73,0.552,68,94,0.42,1,0,1,0,0
+Ed Lynch,1999,CHC,Chicago Cubs,67,95,0.414,90,73,0.552,0,0,0,0,0
+Ed Lynch,2000,CHC,Chicago Cubs,65,97,0.401,67,95,0.414,0,0,0,0,0
+Ed Wade,1998,PHI,Philadelphia Phillies,75,87,0.463,68,94,0.42,0,0,0,0,0
+Ed Wade,1999,PHI,Philadelphia Phillies,77,85,0.475,75,87,0.463,0,0,0,0,0
+Ed Wade,2000,PHI,Philadelphia Phillies,65,97,0.401,77,85,0.475,0,0,0,0,0
+Ed Wade,2001,PHI,Philadelphia Phillies,86,76,0.531,65,97,0.401,0,0,0,0,0
+Ed Wade,2002,PHI,Philadelphia Phillies,80,81,0.497,86,76,0.531,0,0,0,0,0
+Ed Wade,2003,PHI,Philadelphia Phillies,86,76,0.531,80,81,0.497,0,0,0,0,0
+Ed Wade,2004,PHI,Philadelphia Phillies,86,76,0.531,86,76,0.531,0,0,0,0,0
+Ed Wade,2005,PHI,Philadelphia Phillies,88,74,0.543,86,76,0.531,0,0,0,0,0
+Ed Wade,2008,HOU,Houston Astros,86,75,0.534,73,89,0.451,0,0,0,0,0
+Ed Wade,2009,HOU,Houston Astros,74,88,0.457,86,75,0.534,0,0,0,0,0
+Ed Wade,2010,HOU,Houston Astros,76,86,0.469,74,88,0.457,0,0,0,0,0
+Ed Wade,2011,HOU,Houston Astros,56,106,0.346,76,86,0.469,0,0,0,0,0
+Erik Neander,2018,TBD,Tampa Bay Rays,90,72,0.556,80,82,0.494,0,0,0,0,0
+Erik Neander,2019,TBD,Tampa Bay Rays,96,66,0.593,90,72,0.556,1,0,1,0,0
+Erik Neander,2020,TBD,Tampa Bay Rays,40,20,0.667,96,66,0.593,1,1,0,1,0
+Farhan Zaidi,2019,SFG,San Francisco Giants,77,85,0.475,73,89,0.451,0,0,0,0,0
+Farhan Zaidi,2020,SFG,San Francisco Giants,29,31,0.483,77,85,0.475,0,0,0,0,0
+Frank Wren,1999,BAL,Baltimore Orioles,78,84,0.481,79,83,0.488,0,0,0,0,0
+Frank Wren,2008,ATL,Atlanta Braves,72,90,0.444,84,78,0.519,0,0,0,0,0
+Frank Wren,2009,ATL,Atlanta Braves,86,76,0.531,72,90,0.444,0,0,0,0,0
+Frank Wren,2010,ATL,Atlanta Braves,91,71,0.562,86,76,0.531,1,0,1,0,0
+Frank Wren,2011,ATL,Atlanta Braves,89,73,0.549,91,71,0.562,0,0,0,0,0
+Frank Wren,2012,ATL,Atlanta Braves,94,68,0.58,89,73,0.549,1,0,1,0,0
+Frank Wren,2013,ATL,Atlanta Braves,96,66,0.593,94,68,0.58,1,1,0,0,0
+Frank Wren,2014,ATL,Atlanta Braves,79,83,0.488,96,66,0.593,0,0,0,0,0
+Fred Claire,1988,LAD,Los Angeles Dodgers,94,67,0.584,73,89,0.451,1,1,0,1,1
+Fred Claire,1989,LAD,Los Angeles Dodgers,77,83,0.481,94,67,0.584,0,0,0,0,0
+Fred Claire,1990,LAD,Los Angeles Dodgers,86,76,0.531,77,83,0.481,0,0,0,0,0
+Fred Claire,1991,LAD,Los Angeles Dodgers,93,69,0.574,86,76,0.531,0,0,0,0,0
+Fred Claire,1992,LAD,Los Angeles Dodgers,63,99,0.389,93,69,0.574,0,0,0,0,0
+Fred Claire,1993,LAD,Los Angeles Dodgers,81,81,0.5,63,99,0.389,0,0,0,0,0
+Fred Claire,1994,LAD,Los Angeles Dodgers,58,56,0.509,81,81,0.5,0,0,0,0,0
+Fred Claire,1995,LAD,Los Angeles Dodgers,78,66,0.542,58,56,0.509,1,1,0,0,0
+Fred Claire,1996,LAD,Los Angeles Dodgers,90,72,0.556,78,66,0.542,1,0,1,0,0
+Fred Claire,1997,LAD,Los Angeles Dodgers,88,74,0.543,90,72,0.556,0,0,0,0,0
+Fred Claire,1998,LAD,Los Angeles Dodgers,83,79,0.512,88,74,0.543,0,0,0,0,0
+Gerry Hunsicker,1996,HOU,Houston Astros,82,80,0.506,76,68,0.528,0,0,0,0,0
+Gerry Hunsicker,1997,HOU,Houston Astros,84,78,0.519,82,80,0.506,1,1,0,0,0
+Gerry Hunsicker,1998,HOU,Houston Astros,102,60,0.63,84,78,0.519,1,1,0,0,0
+Gerry Hunsicker,1999,HOU,Houston Astros,97,65,0.599,102,60,0.63,1,1,0,0,0
+Gerry Hunsicker,2000,HOU,Houston Astros,72,90,0.444,97,65,0.599,0,0,0,0,0
+Gerry Hunsicker,2001,HOU,Houston Astros,93,69,0.574,72,90,0.444,1,1,0,0,0
+Gerry Hunsicker,2002,HOU,Houston Astros,84,78,0.519,93,69,0.574,0,0,0,0,0
+Gerry Hunsicker,2003,HOU,Houston Astros,87,75,0.537,84,78,0.519,0,0,0,0,0
+Gerry Hunsicker,2004,HOU,Houston Astros,92,70,0.568,87,75,0.537,1,0,1,0,0
+Gord Ash,1995,TOR,Toronto Blue Jays,56,88,0.389,55,60,0.478,0,0,0,0,0
+Gord Ash,1996,TOR,Toronto Blue Jays,74,88,0.457,56,88,0.389,0,0,0,0,0
+Gord Ash,1997,TOR,Toronto Blue Jays,76,86,0.469,74,88,0.457,0,0,0,0,0
+Gord Ash,1998,TOR,Toronto Blue Jays,88,74,0.543,76,86,0.469,0,0,0,0,0
+Gord Ash,1999,TOR,Toronto Blue Jays,84,78,0.519,88,74,0.543,0,0,0,0,0
+Gord Ash,2000,TOR,Toronto Blue Jays,83,79,0.512,84,78,0.519,0,0,0,0,0
+Gord Ash,2001,TOR,Toronto Blue Jays,80,82,0.494,83,79,0.512,0,0,0,0,0
+Herk Robinson,1991,KCR,Kansas City Royals,82,80,0.506,75,86,0.466,0,0,0,0,0
+Herk Robinson,1992,KCR,Kansas City Royals,72,90,0.444,82,80,0.506,0,0,0,0,0
+Herk Robinson,1993,KCR,Kansas City Royals,84,78,0.519,72,90,0.444,0,0,0,0,0
+Herk Robinson,1994,KCR,Kansas City Royals,64,51,0.557,84,78,0.519,0,0,0,0,0
+Herk Robinson,1995,KCR,Kansas City Royals,70,74,0.486,64,51,0.557,0,0,0,0,0
+Herk Robinson,1996,KCR,Kansas City Royals,75,86,0.466,70,74,0.486,0,0,0,0,0
+Herk Robinson,1997,KCR,Kansas City Royals,67,94,0.416,75,86,0.466,0,0,0,0,0
+Herk Robinson,1998,KCR,Kansas City Royals,72,89,0.447,67,94,0.416,0,0,0,0,0
+Herk Robinson,1999,KCR,Kansas City Royals,64,97,0.398,72,89,0.447,0,0,0,0,0
+Herk Robinson,2000,KCR,Kansas City Royals,77,85,0.475,64,97,0.398,0,0,0,0,0
+J.P. Ricciardi,2002,TOR,Toronto Blue Jays,78,84,0.481,80,82,0.494,0,0,0,0,0
+J.P. Ricciardi,2003,TOR,Toronto Blue Jays,86,76,0.531,78,84,0.481,0,0,0,0,0
+J.P. Ricciardi,2004,TOR,Toronto Blue Jays,67,94,0.416,86,76,0.531,0,0,0,0,0
+J.P. Ricciardi,2005,TOR,Toronto Blue Jays,80,82,0.494,67,94,0.416,0,0,0,0,0
+J.P. Ricciardi,2006,TOR,Toronto Blue Jays,87,75,0.537,80,82,0.494,0,0,0,0,0
+J.P. Ricciardi,2007,TOR,Toronto Blue Jays,83,79,0.512,87,75,0.537,0,0,0,0,0
+J.P. Ricciardi,2008,TOR,Toronto Blue Jays,86,76,0.531,83,79,0.512,0,0,0,0,0
+J.P. Ricciardi,2009,TOR,Toronto Blue Jays,75,87,0.463,86,76,0.531,0,0,0,0,0
+Jack Zduriencik,2009,SEA,Seattle Mariners,85,77,0.525,61,101,0.377,0,0,0,0,0
+Jack Zduriencik,2010,SEA,Seattle Mariners,61,101,0.377,85,77,0.525,0,0,0,0,0
+Jack Zduriencik,2011,SEA,Seattle Mariners,67,95,0.414,61,101,0.377,0,0,0,0,0
+Jack Zduriencik,2012,SEA,Seattle Mariners,75,87,0.463,67,95,0.414,0,0,0,0,0
+Jack Zduriencik,2013,SEA,Seattle Mariners,71,91,0.438,75,87,0.463,0,0,0,0,0
+Jack Zduriencik,2014,SEA,Seattle Mariners,87,75,0.537,71,91,0.438,0,0,0,0,0
+Jack Zduriencik,2015,SEA,Seattle Mariners,76,86,0.469,87,75,0.537,0,0,0,0,0
+James Click,2020,HOU,Houston Astros,29,31,0.483,107,55,0.66,1,0,1,0,0
+Jed Hoyer,2010,SDP,San Diego Padres,90,72,0.556,75,87,0.463,0,0,0,0,0
+Jed Hoyer,2011,SDP,San Diego Padres,71,91,0.438,90,72,0.556,0,0,0,0,0
+Jeff Bridich,2015,COL,Colorado Rockies,68,94,0.42,66,96,0.407,0,0,0,0,0
+Jeff Bridich,2016,COL,Colorado Rockies,75,87,0.463,68,94,0.42,0,0,0,0,0
+Jeff Bridich,2017,COL,Colorado Rockies,87,75,0.537,75,87,0.463,1,0,1,0,0
+Jeff Bridich,2018,COL,Colorado Rockies,91,72,0.558,87,75,0.537,1,0,1,0,0
+Jeff Bridich,2019,COL,Colorado Rockies,71,91,0.438,91,72,0.558,0,0,0,0,0
+Jeff Bridich,2020,COL,Colorado Rockies,26,34,0.433,71,91,0.438,0,0,0,0,0
+Jeff Luhnow,2012,HOU,Houston Astros,55,107,0.34,56,106,0.346,0,0,0,0,0
+Jeff Luhnow,2013,HOU,Houston Astros,51,111,0.315,55,107,0.34,0,0,0,0,0
+Jeff Luhnow,2014,HOU,Houston Astros,70,92,0.432,51,111,0.315,0,0,0,0,0
+Jeff Luhnow,2015,HOU,Houston Astros,86,76,0.531,70,92,0.432,1,0,1,0,0
+Jeff Luhnow,2016,HOU,Houston Astros,84,78,0.519,86,76,0.531,0,0,0,0,0
+Jeff Luhnow,2017,HOU,Houston Astros,101,61,0.623,84,78,0.519,1,1,0,1,1
+Jeff Luhnow,2018,HOU,Houston Astros,103,59,0.636,101,61,0.623,1,1,0,0,0
+Jeff Luhnow,2019,HOU,Houston Astros,107,55,0.66,103,59,0.636,1,1,0,1,0
+Jerry Dipoto,2012,ANA,Los Angeles Angels of Anaheim,89,73,0.549,86,76,0.531,0,0,0,0,0
+Jerry Dipoto,2013,ANA,Los Angeles Angels of Anaheim,78,84,0.481,89,73,0.549,0,0,0,0,0
+Jerry Dipoto,2014,ANA,Los Angeles Angels of Anaheim,98,64,0.605,78,84,0.481,1,1,0,0,0
+Jerry Dipoto,2015,ANA,Los Angeles Angels of Anaheim,85,77,0.525,98,64,0.605,0,0,0,0,0
+Jerry Dipoto,2016,SEA,Seattle Mariners,86,76,0.531,76,86,0.469,0,0,0,0,0
+Jerry Dipoto,2017,SEA,Seattle Mariners,78,84,0.481,86,76,0.531,0,0,0,0,0
+Jerry Dipoto,2018,SEA,Seattle Mariners,89,73,0.549,78,84,0.481,0,0,0,0,0
+Jerry Dipoto,2019,SEA,Seattle Mariners,68,94,0.42,89,73,0.549,0,0,0,0,0
+Jerry Dipoto,2020,SEA,Seattle Mariners,27,33,0.45,68,94,0.42,0,0,0,0,0
+Jim Beattie,1996,WSN,Montreal Expos,88,74,0.543,66,78,0.458,0,0,0,0,0
+Jim Beattie,1997,WSN,Montreal Expos,78,84,0.481,88,74,0.543,0,0,0,0,0
+Jim Beattie,1998,WSN,Montreal Expos,65,97,0.401,78,84,0.481,0,0,0,0,0
+Jim Beattie,1999,WSN,Montreal Expos,68,94,0.42,65,97,0.401,0,0,0,0,0
+Jim Beattie,2000,WSN,Montreal Expos,67,95,0.414,68,94,0.42,0,0,0,0,0
+Jim Beattie,2001,WSN,Montreal Expos,68,94,0.42,67,95,0.414,0,0,0,0,0
+Jim Bowden,1993,CIN,Cincinnati Reds,73,89,0.451,90,72,0.556,0,0,0,0,0
+Jim Bowden,1994,CIN,Cincinnati Reds,66,48,0.579,73,89,0.451,0,0,0,0,0
+Jim Bowden,1995,CIN,Cincinnati Reds,85,59,0.59,66,48,0.579,1,1,0,0,0
+Jim Bowden,1996,CIN,Cincinnati Reds,81,81,0.5,85,59,0.59,0,0,0,0,0
+Jim Bowden,1997,CIN,Cincinnati Reds,76,86,0.469,81,81,0.5,0,0,0,0,0
+Jim Bowden,1998,CIN,Cincinnati Reds,77,85,0.475,76,86,0.469,0,0,0,0,0
+Jim Bowden,1999,CIN,Cincinnati Reds,96,67,0.589,77,85,0.475,0,0,0,0,0
+Jim Bowden,2000,CIN,Cincinnati Reds,85,77,0.525,96,67,0.589,0,0,0,0,0
+Jim Bowden,2001,CIN,Cincinnati Reds,66,96,0.407,85,77,0.525,0,0,0,0,0
+Jim Bowden,2002,CIN,Cincinnati Reds,78,84,0.481,66,96,0.407,0,0,0,0,0
+Jim Bowden,2003,CIN,Cincinnati Reds,69,93,0.426,78,84,0.481,0,0,0,0,0
+Jim Bowden,2005,WSN,Washington Nationals,81,81,0.5,67,95,0.414,0,0,0,0,0
+Jim Bowden,2006,WSN,Washington Nationals,71,91,0.438,81,81,0.5,0,0,0,0,0
+Jim Bowden,2007,WSN,Washington Nationals,73,89,0.451,71,91,0.438,0,0,0,0,0
+Jim Bowden,2008,WSN,Washington Nationals,59,102,0.366,73,89,0.451,0,0,0,0,0
+Jim Duquette,2004,NYM,New York Mets,71,91,0.438,66,95,0.41,0,0,0,0,0
+Jim Hendry,2003,CHC,Chicago Cubs,88,74,0.543,67,95,0.414,1,1,0,0,0
+Jim Hendry,2004,CHC,Chicago Cubs,89,73,0.549,88,74,0.543,0,0,0,0,0
+Jim Hendry,2005,CHC,Chicago Cubs,79,83,0.488,89,73,0.549,0,0,0,0,0
+Jim Hendry,2006,CHC,Chicago Cubs,66,96,0.407,79,83,0.488,0,0,0,0,0
+Jim Hendry,2007,CHC,Chicago Cubs,85,77,0.525,66,96,0.407,1,1,0,0,0
+Jim Hendry,2008,CHC,Chicago Cubs,97,64,0.602,85,77,0.525,1,1,0,0,0
+Jim Hendry,2009,CHC,Chicago Cubs,83,78,0.516,97,64,0.602,0,0,0,0,0
+Jim Hendry,2010,CHC,Chicago Cubs,75,87,0.463,83,78,0.516,0,0,0,0,0
+Jim Hendry,2011,CHC,Chicago Cubs,71,91,0.438,75,87,0.463,0,0,0,0,0
+Joe Garagiola,1998,ARI,Arizona Diamondbacks,65,97,0.401,0,0,0,0,0,0,0,0
+Joe Garagiola,1999,ARI,Arizona Diamondbacks,100,62,0.617,65,97,0.401,1,1,0,0,0
+Joe Garagiola,2000,ARI,Arizona Diamondbacks,85,77,0.525,100,62,0.617,0,0,0,0,0
+Joe Garagiola,2001,ARI,Arizona Diamondbacks,92,70,0.568,85,77,0.525,1,1,0,1,1
+Joe Garagiola,2002,ARI,Arizona Diamondbacks,98,64,0.605,92,70,0.568,1,1,0,0,0
+Joe Garagiola,2003,ARI,Arizona Diamondbacks,84,78,0.519,98,64,0.605,0,0,0,0,0
+Joe Garagiola,2004,ARI,Arizona Diamondbacks,51,111,0.315,84,78,0.519,0,0,0,0,0
+Joe Garagiola,2005,ARI,Arizona Diamondbacks,77,85,0.475,51,111,0.315,0,0,0,0,0
+John Hart,1992,CLE,Cleveland Indians,76,86,0.469,57,105,0.352,0,0,0,0,0
+John Hart,1993,CLE,Cleveland Indians,76,86,0.469,76,86,0.469,0,0,0,0,0
+John Hart,1994,CLE,Cleveland Indians,66,47,0.584,76,86,0.469,0,0,0,0,0
+John Hart,1995,CLE,Cleveland Indians,100,44,0.694,66,47,0.584,1,1,0,1,0
+John Hart,1996,CLE,Cleveland Indians,99,62,0.615,100,44,0.694,1,1,0,0,0
+John Hart,1997,CLE,Cleveland Indians,86,75,0.534,99,62,0.615,1,1,0,1,0
+John Hart,1998,CLE,Cleveland Indians,89,73,0.549,86,75,0.534,1,1,0,0,0
+John Hart,1999,CLE,Cleveland Indians,97,65,0.599,89,73,0.549,1,1,0,0,0
+John Hart,2000,CLE,Cleveland Indians,90,72,0.556,97,65,0.599,0,0,0,0,0
+John Hart,2001,CLE,Cleveland Indians,91,71,0.562,90,72,0.556,1,1,0,0,0
+John Hart,2002,TEX,Texas Rangers,72,90,0.444,73,89,0.451,0,0,0,0,0
+John Hart,2003,TEX,Texas Rangers,71,91,0.438,72,90,0.444,0,0,0,0,0
+John Hart,2004,TEX,Texas Rangers,89,73,0.549,71,91,0.438,0,0,0,0,0
+John Hart,2005,TEX,Texas Rangers,79,83,0.488,89,73,0.549,0,0,0,0,0
+John Hart,2015,ATL,Atlanta Braves,67,95,0.414,79,83,0.488,0,0,0,0,0
+John Hart,2016,ATL,Atlanta Braves,68,93,0.422,67,95,0.414,0,0,0,0,0
+John Hart,2017,ATL,Atlanta Braves,72,90,0.444,68,93,0.422,0,0,0,0,0
+John Mozeliak,2008,STL,St. Louis Cardinals,86,76,0.531,78,84,0.481,0,0,0,0,0
+John Mozeliak,2009,STL,St. Louis Cardinals,91,71,0.562,86,76,0.531,1,1,0,0,0
+John Mozeliak,2010,STL,St. Louis Cardinals,86,76,0.531,91,71,0.562,0,0,0,0,0
+John Mozeliak,2011,STL,St. Louis Cardinals,90,72,0.556,86,76,0.531,1,0,1,1,1
+John Mozeliak,2012,STL,St. Louis Cardinals,88,74,0.543,90,72,0.556,1,0,1,0,0
+John Mozeliak,2013,STL,St. Louis Cardinals,97,65,0.599,88,74,0.543,1,1,0,1,0
+John Mozeliak,2014,STL,St. Louis Cardinals,90,72,0.556,97,65,0.599,1,1,0,0,0
+John Mozeliak,2015,STL,St. Louis Cardinals,100,62,0.617,90,72,0.556,1,1,0,0,0
+John Mozeliak,2016,STL,St. Louis Cardinals,86,76,0.531,100,62,0.617,0,0,0,0,0
+John Mozeliak,2017,STL,St. Louis Cardinals,83,79,0.512,86,76,0.531,0,0,0,0,0
+John Mozeliak,2018,STL,St. Louis Cardinals,88,74,0.543,83,79,0.512,0,0,0,0,0
+John Mozeliak,2019,STL,St. Louis Cardinals,91,71,0.562,88,74,0.543,1,1,0,0,0
+John Mozeliak,2020,STL,St. Louis Cardinals,30,28,0.517,91,71,0.562,1,0,1,0,0
+John Schuerholz,1991,ATL,Atlanta Braves,94,68,0.58,65,97,0.401,1,1,0,1,0
+John Schuerholz,1992,ATL,Atlanta Braves,98,64,0.605,94,68,0.58,1,1,0,1,0
+John Schuerholz,1993,ATL,Atlanta Braves,104,58,0.642,98,64,0.605,1,1,0,0,0
+John Schuerholz,1994,ATL,Atlanta Braves,68,46,0.596,104,58,0.642,0,0,0,0,0
+John Schuerholz,1995,ATL,Atlanta Braves,90,54,0.625,68,46,0.596,1,1,0,1,1
+John Schuerholz,1996,ATL,Atlanta Braves,96,66,0.593,90,54,0.625,1,1,0,1,0
+John Schuerholz,1997,ATL,Atlanta Braves,101,61,0.623,96,66,0.593,1,1,0,0,0
+John Schuerholz,1998,ATL,Atlanta Braves,106,56,0.654,101,61,0.623,1,1,0,0,0
+John Schuerholz,1999,ATL,Atlanta Braves,103,59,0.636,106,56,0.654,1,1,0,1,0
+John Schuerholz,2000,ATL,Atlanta Braves,95,67,0.586,103,59,0.636,1,1,0,0,0
+John Schuerholz,2001,ATL,Atlanta Braves,88,74,0.543,95,67,0.586,1,1,0,0,0
+John Schuerholz,2002,ATL,Atlanta Braves,101,59,0.631,88,74,0.543,1,1,0,0,0
+John Schuerholz,2003,ATL,Atlanta Braves,101,61,0.623,101,59,0.631,1,1,0,0,0
+John Schuerholz,2004,ATL,Atlanta Braves,96,66,0.593,101,61,0.623,1,1,0,0,0
+John Schuerholz,2005,ATL,Atlanta Braves,90,72,0.556,96,66,0.593,1,1,0,0,0
+John Schuerholz,2006,ATL,Atlanta Braves,79,83,0.488,90,72,0.556,0,0,0,0,0
+John Schuerholz,2007,ATL,Atlanta Braves,84,78,0.519,79,83,0.488,0,0,0,0,0
+Jon Daniels,2006,TEX,Texas Rangers,80,82,0.494,79,83,0.488,0,0,0,0,0
+Jon Daniels,2007,TEX,Texas Rangers,75,87,0.463,80,82,0.494,0,0,0,0,0
+Jon Daniels,2008,TEX,Texas Rangers,79,83,0.488,75,87,0.463,0,0,0,0,0
+Jon Daniels,2009,TEX,Texas Rangers,87,75,0.537,79,83,0.488,0,0,0,0,0
+Jon Daniels,2010,TEX,Texas Rangers,90,72,0.556,87,75,0.537,1,1,0,1,0
+Jon Daniels,2011,TEX,Texas Rangers,96,66,0.593,90,72,0.556,1,1,0,1,0
+Jon Daniels,2012,TEX,Texas Rangers,93,69,0.574,96,66,0.593,1,0,1,0,0
+Jon Daniels,2013,TEX,Texas Rangers,91,72,0.558,93,69,0.574,0,0,0,0,0
+Jon Daniels,2014,TEX,Texas Rangers,67,95,0.414,91,72,0.558,0,0,0,0,0
+Jon Daniels,2015,TEX,Texas Rangers,88,74,0.543,67,95,0.414,1,1,0,0,0
+Jon Daniels,2016,TEX,Texas Rangers,95,67,0.586,88,74,0.543,1,1,0,0,0
+Jon Daniels,2017,TEX,Texas Rangers,78,84,0.481,95,67,0.586,0,0,0,0,0
+Jon Daniels,2018,TEX,Texas Rangers,67,95,0.414,78,84,0.481,0,0,0,0,0
+Jon Daniels,2019,TEX,Texas Rangers,78,84,0.481,67,95,0.414,0,0,0,0,0
+Jon Daniels,2020,TEX,Texas Rangers,22,38,0.367,78,84,0.481,0,0,0,0,0
+Josh Byrnes,2006,ARI,Arizona Diamondbacks,76,86,0.469,77,85,0.475,0,0,0,0,0
+Josh Byrnes,2007,ARI,Arizona Diamondbacks,90,72,0.556,76,86,0.469,1,1,0,0,0
+Josh Byrnes,2008,ARI,Arizona Diamondbacks,82,80,0.506,90,72,0.556,0,0,0,0,0
+Josh Byrnes,2009,ARI,Arizona Diamondbacks,70,92,0.432,82,80,0.506,0,0,0,0,0
+Josh Byrnes,2010,ARI,Arizona Diamondbacks,65,97,0.401,70,92,0.432,0,0,0,0,0
+Josh Byrnes,2012,SDP,San Diego Padres,76,86,0.469,71,91,0.438,0,0,0,0,0
+Josh Byrnes,2013,SDP,San Diego Padres,76,86,0.469,76,86,0.469,0,0,0,0,0
+Josh Byrnes,2014,SDP,San Diego Padres,77,85,0.475,76,86,0.469,0,0,0,0,0
+Ken Williams,2001,CHW,Chicago White Sox,83,79,0.512,95,67,0.586,0,0,0,0,0
+Ken Williams,2002,CHW,Chicago White Sox,81,81,0.5,83,79,0.512,0,0,0,0,0
+Ken Williams,2003,CHW,Chicago White Sox,86,76,0.531,81,81,0.5,0,0,0,0,0
+Ken Williams,2004,CHW,Chicago White Sox,83,79,0.512,86,76,0.531,0,0,0,0,0
+Ken Williams,2005,CHW,Chicago White Sox,99,63,0.611,83,79,0.512,1,1,0,1,1
+Ken Williams,2006,CHW,Chicago White Sox,90,72,0.556,99,63,0.611,0,0,0,0,0
+Ken Williams,2007,CHW,Chicago White Sox,72,90,0.444,90,72,0.556,0,0,0,0,0
+Ken Williams,2008,CHW,Chicago White Sox,89,74,0.546,72,90,0.444,1,1,0,0,0
+Ken Williams,2009,CHW,Chicago White Sox,79,83,0.488,89,74,0.546,0,0,0,0,0
+Ken Williams,2010,CHW,Chicago White Sox,88,74,0.543,79,83,0.488,0,0,0,0,0
+Ken Williams,2011,CHW,Chicago White Sox,79,83,0.488,88,74,0.543,0,0,0,0,0
+Ken Williams,2012,CHW,Chicago White Sox,85,77,0.525,79,83,0.488,0,0,0,0,0
+Kevin Malone,1999,LAD,Los Angeles Dodgers,77,85,0.475,83,79,0.512,0,0,0,0,0
+Kevin Malone,2000,LAD,Los Angeles Dodgers,86,76,0.531,77,85,0.475,0,0,0,0,0
+Kevin Towers,1996,SDP,San Diego Padres,91,71,0.562,70,74,0.486,1,1,0,0,0
+Kevin Towers,1997,SDP,San Diego Padres,76,86,0.469,91,71,0.562,0,0,0,0,0
+Kevin Towers,1998,SDP,San Diego Padres,98,64,0.605,76,86,0.469,1,1,0,1,0
+Kevin Towers,1999,SDP,San Diego Padres,74,88,0.457,98,64,0.605,0,0,0,0,0
+Kevin Towers,2000,SDP,San Diego Padres,76,86,0.469,74,88,0.457,0,0,0,0,0
+Kevin Towers,2001,SDP,San Diego Padres,79,83,0.488,76,86,0.469,0,0,0,0,0
+Kevin Towers,2002,SDP,San Diego Padres,66,96,0.407,79,83,0.488,0,0,0,0,0
+Kevin Towers,2003,SDP,San Diego Padres,64,98,0.395,66,96,0.407,0,0,0,0,0
+Kevin Towers,2004,SDP,San Diego Padres,87,75,0.537,64,98,0.395,0,0,0,0,0
+Kevin Towers,2005,SDP,San Diego Padres,82,80,0.506,87,75,0.537,1,1,0,0,0
+Kevin Towers,2006,SDP,San Diego Padres,88,74,0.543,82,80,0.506,1,1,0,0,0
+Kevin Towers,2007,SDP,San Diego Padres,89,74,0.546,88,74,0.543,0,0,0,0,0
+Kevin Towers,2008,SDP,San Diego Padres,63,99,0.389,89,74,0.546,0,0,0,0,0
+Kevin Towers,2009,SDP,San Diego Padres,75,87,0.463,63,99,0.389,0,0,0,0,0
+Kevin Towers,2011,ARI,Arizona Diamondbacks,94,68,0.58,65,97,0.401,1,1,0,0,0
+Kevin Towers,2012,ARI,Arizona Diamondbacks,81,81,0.5,94,68,0.58,0,0,0,0,0
+Kevin Towers,2013,ARI,Arizona Diamondbacks,81,81,0.5,81,81,0.5,0,0,0,0,0
+Kevin Towers,2014,ARI,Arizona Diamondbacks,64,98,0.395,81,81,0.5,0,0,0,0,0
+Larry Beinfest,2002,FLA,Florida Marlins,79,83,0.488,76,86,0.469,0,0,0,0,0
+Larry Beinfest,2003,FLA,Florida Marlins,91,71,0.562,79,83,0.488,1,0,1,1,1
+Larry Beinfest,2004,FLA,Florida Marlins,83,79,0.512,91,71,0.562,0,0,0,0,0
+Larry Beinfest,2005,FLA,Florida Marlins,83,79,0.512,83,79,0.512,0,0,0,0,0
+Larry Beinfest,2006,FLA,Florida Marlins,78,84,0.481,83,79,0.512,0,0,0,0,0
+Larry Beinfest,2007,FLA,Florida Marlins,71,91,0.438,78,84,0.481,0,0,0,0,0
+Mark Shapiro,2002,CLE,Cleveland Indians,74,88,0.457,91,71,0.562,0,0,0,0,0
+Mark Shapiro,2003,CLE,Cleveland Indians,68,94,0.42,74,88,0.457,0,0,0,0,0
+Mark Shapiro,2004,CLE,Cleveland Indians,80,82,0.494,68,94,0.42,0,0,0,0,0
+Mark Shapiro,2005,CLE,Cleveland Indians,93,69,0.574,80,82,0.494,0,0,0,0,0
+Mark Shapiro,2006,CLE,Cleveland Indians,78,84,0.481,93,69,0.574,0,0,0,0,0
+Mark Shapiro,2007,CLE,Cleveland Indians,96,66,0.593,78,84,0.481,1,1,0,0,0
+Mark Shapiro,2008,CLE,Cleveland Indians,81,81,0.5,96,66,0.593,0,0,0,0,0
+Mark Shapiro,2009,CLE,Cleveland Indians,65,97,0.401,81,81,0.5,0,0,0,0,0
+Mark Shapiro,2010,CLE,Cleveland Indians,69,93,0.426,65,97,0.401,0,0,0,0,0
+Mark Shapiro,2011,CLE,Cleveland Indians,80,82,0.494,69,93,0.426,0,0,0,0,0
+Mark Shapiro,2012,CLE,Cleveland Indians,68,94,0.42,80,82,0.494,0,0,0,0,0
+Mark Shapiro,2013,CLE,Cleveland Indians,92,70,0.568,68,94,0.42,1,0,1,0,0
+Mark Shapiro,2014,CLE,Cleveland Indians,85,77,0.525,92,70,0.568,0,0,0,0,0
+Mark Shapiro,2015,CLE,Cleveland Indians,81,80,0.503,85,77,0.525,0,0,0,0,0
+Mark Shapiro,2016,TOR,Toronto Blue Jays,89,73,0.549,93,69,0.574,1,0,1,0,0
+Mark Shapiro,2017,TOR,Toronto Blue Jays,76,86,0.469,89,73,0.549,0,0,0,0,0
+Mark Shapiro,2018,TOR,Toronto Blue Jays,73,89,0.451,76,86,0.469,0,0,0,0,0
+Mark Shapiro,2019,TOR,Toronto Blue Jays,67,95,0.414,73,89,0.451,0,0,0,0,0
+Mark Shapiro,2020,TOR,Toronto Blue Jays,32,28,0.533,67,95,0.414,1,0,1,0,0
+Matt Klentak,2016,PHI,Philadelphia Phillies,71,91,0.438,63,99,0.389,0,0,0,0,0
+Matt Klentak,2017,PHI,Philadelphia Phillies,66,96,0.407,71,91,0.438,0,0,0,0,0
+Matt Klentak,2018,PHI,Philadelphia Phillies,80,82,0.494,66,96,0.407,0,0,0,0,0
+Matt Klentak,2019,PHI,Philadelphia Phillies,81,81,0.5,80,82,0.494,0,0,0,0,0
+Matt Klentak,2020,PHI,Philadelphia Phillies,28,32,0.467,81,81,0.5,0,0,0,0,0
+Matt Silverman,2015,TBD,Tampa Bay Rays,80,82,0.494,77,85,0.475,0,0,0,0,0
+Matt Silverman,2016,TBD,Tampa Bay Rays,68,94,0.42,80,82,0.494,0,0,0,0,0
+Matt Silverman,2017,TBD,Tampa Bay Rays,80,82,0.494,68,94,0.42,0,0,0,0,0
+Mike Elias,2019,BAL,Baltimore Orioles,54,108,0.333,47,115,0.29,0,0,0,0,0
+Mike Elias,2020,BAL,Baltimore Orioles,25,35,0.417,54,108,0.333,0,0,0,0,0
+Mike Flanagan,2003,BAL,Baltimore Orioles,71,91,0.438,67,95,0.414,0,0,0,0,0
+Mike Flanagan,2004,BAL,Baltimore Orioles,78,84,0.481,71,91,0.438,0,0,0,0,0
+Mike Flanagan,2005,BAL,Baltimore Orioles,74,88,0.457,78,84,0.481,0,0,0,0,0
+Mike Flanagan,2006,BAL,Baltimore Orioles,70,92,0.432,74,88,0.457,0,0,0,0,0
+Mike Flanagan,2007,BAL,Baltimore Orioles,69,93,0.426,70,92,0.432,0,0,0,0,0
+Mike Hazen,2017,ARI,Arizona Diamondbacks,93,69,0.574,69,93,0.426,1,0,1,0,0
+Mike Hazen,2018,ARI,Arizona Diamondbacks,82,80,0.506,93,69,0.574,0,0,0,0,0
+Mike Hazen,2019,ARI,Arizona Diamondbacks,85,77,0.525,82,80,0.506,0,0,0,0,0
+Mike Hazen,2020,ARI,Arizona Diamondbacks,25,35,0.417,85,77,0.525,0,0,0,0,0
+Mike Hill,2008,FLA,Florida Marlins,84,77,0.522,71,91,0.438,0,0,0,0,0
+Mike Hill,2009,FLA,Florida Marlins,87,75,0.537,84,77,0.522,0,0,0,0,0
+Mike Hill,2010,FLA,Florida Marlins,80,82,0.494,87,75,0.537,0,0,0,0,0
+Mike Hill,2011,FLA,Florida Marlins,72,90,0.444,80,82,0.494,0,0,0,0,0
+Mike Hill,2012,FLA,Miami Marlins,69,93,0.426,72,90,0.444,0,0,0,0,0
+Mike Hill,2013,FLA,Miami Marlins,62,100,0.383,69,93,0.426,0,0,0,0,0
+Mike Hill,2016,FLA,Miami Marlins,79,82,0.491,71,91,0.438,0,0,0,0,0
+Mike Hill,2017,FLA,Miami Marlins,77,85,0.475,79,82,0.491,0,0,0,0,0
+Mike Port,2002,BOS,Boston Red Sox,93,69,0.574,82,79,0.509,0,0,0,0,0
+Mike Rizzo,2009,WSN,Washington Nationals,59,103,0.364,59,102,0.366,0,0,0,0,0
+Mike Rizzo,2010,WSN,Washington Nationals,69,93,0.426,59,103,0.364,0,0,0,0,0
+Mike Rizzo,2011,WSN,Washington Nationals,80,81,0.497,69,93,0.426,0,0,0,0,0
+Mike Rizzo,2012,WSN,Washington Nationals,98,64,0.605,80,81,0.497,1,1,0,0,0
+Mike Rizzo,2013,WSN,Washington Nationals,86,76,0.531,98,64,0.605,0,0,0,0,0
+Mike Rizzo,2014,WSN,Washington Nationals,96,66,0.593,86,76,0.531,1,1,0,0,0
+Mike Rizzo,2015,WSN,Washington Nationals,83,79,0.512,96,66,0.593,0,0,0,0,0
+Mike Rizzo,2016,WSN,Washington Nationals,95,67,0.586,83,79,0.512,1,1,0,0,0
+Mike Rizzo,2017,WSN,Washington Nationals,97,65,0.599,95,67,0.586,1,1,0,0,0
+Mike Rizzo,2018,WSN,Washington Nationals,82,80,0.506,97,65,0.599,0,0,0,0,0
+Mike Rizzo,2019,WSN,Washington Nationals,93,69,0.574,82,80,0.506,1,0,1,1,1
+Mike Rizzo,2020,WSN,Washington Nationals,26,34,0.433,93,69,0.574,0,0,0,0,0
+Neal Huntington,2008,PIT,Pittsburgh Pirates,67,95,0.414,68,94,0.42,0,0,0,0,0
+Neal Huntington,2009,PIT,Pittsburgh Pirates,62,99,0.385,67,95,0.414,0,0,0,0,0
+Neal Huntington,2010,PIT,Pittsburgh Pirates,57,105,0.352,62,99,0.385,0,0,0,0,0
+Neal Huntington,2011,PIT,Pittsburgh Pirates,72,90,0.444,57,105,0.352,0,0,0,0,0
+Neal Huntington,2012,PIT,Pittsburgh Pirates,79,83,0.488,72,90,0.444,0,0,0,0,0
+Neal Huntington,2013,PIT,Pittsburgh Pirates,94,68,0.58,79,83,0.488,1,0,1,0,0
+Neal Huntington,2014,PIT,Pittsburgh Pirates,88,74,0.543,94,68,0.58,1,0,1,0,0
+Neal Huntington,2015,PIT,Pittsburgh Pirates,98,64,0.605,88,74,0.543,1,0,1,0,0
+Neal Huntington,2016,PIT,Pittsburgh Pirates,78,83,0.484,98,64,0.605,0,0,0,0,0
+Neal Huntington,2017,PIT,Pittsburgh Pirates,75,87,0.463,78,83,0.484,0,0,0,0,0
+Neal Huntington,2018,PIT,Pittsburgh Pirates,82,79,0.509,75,87,0.463,0,0,0,0,0
+Neal Huntington,2019,PIT,Pittsburgh Pirates,69,93,0.426,82,79,0.509,0,0,0,0,0
+Ned Colletti,2006,LAD,Los Angeles Dodgers,88,74,0.543,71,91,0.438,1,0,1,0,0
+Ned Colletti,2007,LAD,Los Angeles Dodgers,82,80,0.506,88,74,0.543,0,0,0,0,0
+Ned Colletti,2008,LAD,Los Angeles Dodgers,84,78,0.519,82,80,0.506,1,1,0,0,0
+Ned Colletti,2009,LAD,Los Angeles Dodgers,95,67,0.586,84,78,0.519,1,1,0,0,0
+Ned Colletti,2010,LAD,Los Angeles Dodgers,80,82,0.494,95,67,0.586,0,0,0,0,0
+Ned Colletti,2011,LAD,Los Angeles Dodgers,82,79,0.509,80,82,0.494,0,0,0,0,0
+Ned Colletti,2012,LAD,Los Angeles Dodgers,86,76,0.531,82,79,0.509,0,0,0,0,0
+Ned Colletti,2013,LAD,Los Angeles Dodgers,92,70,0.568,86,76,0.531,1,1,0,0,0
+Ned Colletti,2014,LAD,Los Angeles Dodgers,94,68,0.58,92,70,0.568,1,1,0,0,0
+Omar Minaya,2002,WSN,Montreal Expos,83,79,0.512,68,94,0.42,0,0,0,0,0
+Omar Minaya,2003,WSN,Montreal Expos,83,79,0.512,83,79,0.512,0,0,0,0,0
+Omar Minaya,2004,WSN,Montreal Expos,67,95,0.414,83,79,0.512,0,0,0,0,0
+Omar Minaya,2005,NYM,New York Mets,83,79,0.512,71,91,0.438,0,0,0,0,0
+Omar Minaya,2006,NYM,New York Mets,97,65,0.599,83,79,0.512,1,1,0,0,0
+Omar Minaya,2007,NYM,New York Mets,88,74,0.543,97,65,0.599,0,0,0,0,0
+Omar Minaya,2008,NYM,New York Mets,89,73,0.549,88,74,0.543,0,0,0,0,0
+Omar Minaya,2009,NYM,New York Mets,70,92,0.432,89,73,0.549,0,0,0,0,0
+Omar Minaya,2010,NYM,New York Mets,79,83,0.488,70,92,0.432,0,0,0,0,0
+Pat Gillick,1996,BAL,Baltimore Orioles,88,74,0.543,71,73,0.493,1,0,1,0,0
+Pat Gillick,1997,BAL,Baltimore Orioles,98,64,0.605,88,74,0.543,1,1,0,0,0
+Pat Gillick,1998,BAL,Baltimore Orioles,79,83,0.488,98,64,0.605,0,0,0,0,0
+Pat Gillick,2000,SEA,Seattle Mariners,91,71,0.562,79,83,0.488,1,0,1,0,0
+Pat Gillick,2001,SEA,Seattle Mariners,116,46,0.716,91,71,0.562,1,1,0,0,0
+Pat Gillick,2002,SEA,Seattle Mariners,93,69,0.574,116,46,0.716,0,0,0,0,0
+Pat Gillick,2003,SEA,Seattle Mariners,93,69,0.574,93,69,0.574,0,0,0,0,0
+Pat Gillick,2006,PHI,Philadelphia Phillies,85,77,0.525,88,74,0.543,0,0,0,0,0
+Pat Gillick,2007,PHI,Philadelphia Phillies,89,73,0.549,85,77,0.525,1,1,0,0,0
+Pat Gillick,2008,PHI,Philadelphia Phillies,92,70,0.568,89,73,0.549,1,1,0,1,1
+Paul DePodesta,2004,LAD,Los Angeles Dodgers,93,69,0.574,85,77,0.525,1,1,0,0,0
+Paul DePodesta,2005,LAD,Los Angeles Dodgers,71,91,0.438,93,69,0.574,0,0,0,0,0
+Randy Smith,1996,DET,Detroit Tigers,53,109,0.327,60,84,0.417,0,0,0,0,0
+Randy Smith,1997,DET,Detroit Tigers,79,83,0.488,53,109,0.327,0,0,0,0,0
+Randy Smith,1998,DET,Detroit Tigers,65,97,0.401,79,83,0.488,0,0,0,0,0
+Randy Smith,1999,DET,Detroit Tigers,69,92,0.429,65,97,0.401,0,0,0,0,0
+Randy Smith,2000,DET,Detroit Tigers,79,83,0.488,69,92,0.429,0,0,0,0,0
+Randy Smith,2001,DET,Detroit Tigers,66,96,0.407,79,83,0.488,0,0,0,0,0
+Randy Smith,2002,DET,Detroit Tigers,55,106,0.342,66,96,0.407,0,0,0,0,0
+Rick Hahn,2013,CHW,Chicago White Sox,63,99,0.389,85,77,0.525,0,0,0,0,0
+Rick Hahn,2014,CHW,Chicago White Sox,73,89,0.451,63,99,0.389,0,0,0,0,0
+Rick Hahn,2015,CHW,Chicago White Sox,76,86,0.469,73,89,0.451,0,0,0,0,0
+Rick Hahn,2016,CHW,Chicago White Sox,78,84,0.481,76,86,0.469,0,0,0,0,0
+Rick Hahn,2017,CHW,Chicago White Sox,67,95,0.414,78,84,0.481,0,0,0,0,0
+Rick Hahn,2018,CHW,Chicago White Sox,62,100,0.383,67,95,0.414,0,0,0,0,0
+Rick Hahn,2019,CHW,Chicago White Sox,72,89,0.447,62,100,0.383,0,0,0,0,0
+Rick Hahn,2020,CHW,Chicago White Sox,35,25,0.583,72,89,0.447,1,0,1,0,0
+Ron Schueler,1991,CHW,Chicago White Sox,87,75,0.537,94,68,0.58,0,0,0,0,0
+Ron Schueler,1992,CHW,Chicago White Sox,86,76,0.531,87,75,0.537,0,0,0,0,0
+Ron Schueler,1993,CHW,Chicago White Sox,94,68,0.58,86,76,0.531,1,1,0,0,0
+Ron Schueler,1994,CHW,Chicago White Sox,67,46,0.593,94,68,0.58,0,0,0,0,0
+Ron Schueler,1995,CHW,Chicago White Sox,68,76,0.472,67,46,0.593,0,0,0,0,0
+Ron Schueler,1996,CHW,Chicago White Sox,85,77,0.525,68,76,0.472,0,0,0,0,0
+Ron Schueler,1997,CHW,Chicago White Sox,80,81,0.497,85,77,0.525,0,0,0,0,0
+Ron Schueler,1998,CHW,Chicago White Sox,80,82,0.494,80,81,0.497,0,0,0,0,0
+Ron Schueler,1999,CHW,Chicago White Sox,75,86,0.466,80,82,0.494,0,0,0,0,0
+Ron Schueler,2000,CHW,Chicago White Sox,95,67,0.586,75,86,0.466,1,1,0,0,0
+Ruben Amaro Jr.,2009,PHI,Philadelphia Phillies,93,69,0.574,92,70,0.568,1,1,0,1,0
+Ruben Amaro Jr.,2010,PHI,Philadelphia Phillies,97,65,0.599,93,69,0.574,1,1,0,0,0
+Ruben Amaro Jr.,2011,PHI,Philadelphia Phillies,102,60,0.63,97,65,0.599,1,1,0,0,0
+Ruben Amaro Jr.,2012,PHI,Philadelphia Phillies,81,81,0.5,102,60,0.63,0,0,0,0,0
+Ruben Amaro Jr.,2013,PHI,Philadelphia Phillies,73,89,0.451,81,81,0.5,0,0,0,0,0
+Ruben Amaro Jr.,2014,PHI,Philadelphia Phillies,73,89,0.451,73,89,0.451,0,0,0,0,0
+Ruben Amaro Jr.,2015,PHI,Philadelphia Phillies,63,99,0.389,73,89,0.451,0,0,0,0,0
+Sal Bando,1992,MIL,Milwaukee Brewers,92,70,0.568,83,79,0.512,0,0,0,0,0
+Sal Bando,1993,MIL,Milwaukee Brewers,69,93,0.426,92,70,0.568,0,0,0,0,0
+Sal Bando,1994,MIL,Milwaukee Brewers,53,62,0.461,69,93,0.426,0,0,0,0,0
+Sal Bando,1995,MIL,Milwaukee Brewers,65,79,0.451,53,62,0.461,0,0,0,0,0
+Sal Bando,1996,MIL,Milwaukee Brewers,80,82,0.494,65,79,0.451,0,0,0,0,0
+Sal Bando,1997,MIL,Milwaukee Brewers,78,83,0.484,80,82,0.494,0,0,0,0,0
+Sal Bando,1998,MIL,Milwaukee Brewers,74,88,0.457,78,83,0.484,0,0,0,0,0
+Sal Bando,1999,MIL,Milwaukee Brewers,74,87,0.46,74,88,0.457,0,0,0,0,0
+Sandy Alderson,2011,NYM,New York Mets,77,85,0.475,79,83,0.488,0,0,0,0,0
+Sandy Alderson,2012,NYM,New York Mets,74,88,0.457,77,85,0.475,0,0,0,0,0
+Sandy Alderson,2013,NYM,New York Mets,74,88,0.457,74,88,0.457,0,0,0,0,0
+Sandy Alderson,2014,NYM,New York Mets,79,83,0.488,74,88,0.457,0,0,0,0,0
+Sandy Alderson,2015,NYM,New York Mets,90,72,0.556,79,83,0.488,1,1,0,1,0
+Sandy Alderson,2016,NYM,New York Mets,87,75,0.537,90,72,0.556,1,0,1,0,0
+Sandy Alderson,2017,NYM,New York Mets,70,92,0.432,87,75,0.537,0,0,0,0,0
+Sandy Alderson,2018,NYM,New York Mets,77,85,0.475,70,92,0.432,0,0,0,0,0
+Steve Phillips,1998,NYM,New York Mets,88,74,0.543,88,74,0.543,0,0,0,0,0
+Steve Phillips,1999,NYM,New York Mets,97,66,0.595,88,74,0.543,1,0,1,0,0
+Steve Phillips,2000,NYM,New York Mets,94,68,0.58,97,66,0.595,1,0,1,1,0
+Steve Phillips,2001,NYM,New York Mets,82,80,0.506,94,68,0.58,0,0,0,0,0
+Steve Phillips,2002,NYM,New York Mets,75,86,0.466,82,80,0.506,0,0,0,0,0
+Steve Phillips,2003,NYM,New York Mets,66,95,0.41,75,86,0.466,0,0,0,0,0
+Syd Thrift,2000,BAL,Baltimore Orioles,74,88,0.457,78,84,0.481,0,0,0,0,0
+Syd Thrift,2001,BAL,Baltimore Orioles,63,98,0.391,74,88,0.457,0,0,0,0,0
+Syd Thrift,2002,BAL,Baltimore Orioles,67,95,0.414,63,98,0.391,0,0,0,0,0
+Terry Ryan,1995,MIN,Minnesota Twins,56,88,0.389,53,60,0.469,0,0,0,0,0
+Terry Ryan,1996,MIN,Minnesota Twins,78,84,0.481,56,88,0.389,0,0,0,0,0
+Terry Ryan,1997,MIN,Minnesota Twins,68,94,0.42,78,84,0.481,0,0,0,0,0
+Terry Ryan,1998,MIN,Minnesota Twins,70,92,0.432,68,94,0.42,0,0,0,0,0
+Terry Ryan,1999,MIN,Minnesota Twins,63,97,0.394,70,92,0.432,0,0,0,0,0
+Terry Ryan,2000,MIN,Minnesota Twins,69,93,0.426,63,97,0.394,0,0,0,0,0
+Terry Ryan,2001,MIN,Minnesota Twins,85,77,0.525,69,93,0.426,0,0,0,0,0
+Terry Ryan,2002,MIN,Minnesota Twins,94,67,0.584,85,77,0.525,1,1,0,0,0
+Terry Ryan,2003,MIN,Minnesota Twins,90,72,0.556,94,67,0.584,1,1,0,0,0
+Terry Ryan,2004,MIN,Minnesota Twins,92,70,0.568,90,72,0.556,1,1,0,0,0
+Terry Ryan,2005,MIN,Minnesota Twins,83,79,0.512,92,70,0.568,0,0,0,0,0
+Terry Ryan,2006,MIN,Minnesota Twins,96,66,0.593,83,79,0.512,1,1,0,0,0
+Terry Ryan,2007,MIN,Minnesota Twins,79,83,0.488,96,66,0.593,0,0,0,0,0
+Terry Ryan,2012,MIN,Minnesota Twins,66,96,0.407,63,99,0.389,0,0,0,0,0
+Terry Ryan,2013,MIN,Minnesota Twins,66,96,0.407,66,96,0.407,0,0,0,0,0
+Terry Ryan,2014,MIN,Minnesota Twins,70,92,0.432,66,96,0.407,0,0,0,0,0
+Terry Ryan,2015,MIN,Minnesota Twins,83,79,0.512,70,92,0.432,0,0,0,0,0
+Terry Ryan,2016,MIN,Minnesota Twins,59,103,0.364,83,79,0.512,0,0,0,0,0
+Theo Epstein,2003,BOS,Boston Red Sox,95,67,0.586,93,69,0.574,1,0,1,0,0
+Theo Epstein,2004,BOS,Boston Red Sox,98,64,0.605,95,67,0.586,1,0,1,1,1
+Theo Epstein,2005,BOS,Boston Red Sox,95,67,0.586,98,64,0.605,1,0,1,0,0
+Theo Epstein,2006,BOS,Boston Red Sox,86,76,0.531,95,67,0.586,0,0,0,0,0
+Theo Epstein,2007,BOS,Boston Red Sox,96,66,0.593,86,76,0.531,1,1,0,1,1
+Theo Epstein,2008,BOS,Boston Red Sox,95,67,0.586,96,66,0.593,1,0,1,0,0
+Theo Epstein,2009,BOS,Boston Red Sox,95,67,0.586,95,67,0.586,1,0,1,0,0
+Theo Epstein,2010,BOS,Boston Red Sox,89,73,0.549,95,67,0.586,0,0,0,0,0
+Theo Epstein,2011,BOS,Boston Red Sox,90,72,0.556,89,73,0.549,0,0,0,0,0
+Theo Epstein,2012,CHC,Chicago Cubs,61,101,0.377,71,91,0.438,0,0,0,0,0
+Theo Epstein,2013,CHC,Chicago Cubs,66,96,0.407,61,101,0.377,0,0,0,0,0
+Theo Epstein,2014,CHC,Chicago Cubs,73,89,0.451,66,96,0.407,0,0,0,0,0
+Theo Epstein,2015,CHC,Chicago Cubs,97,65,0.599,73,89,0.451,1,0,1,0,0
+Theo Epstein,2016,CHC,Chicago Cubs,103,58,0.64,97,65,0.599,1,1,0,1,1
+Theo Epstein,2017,CHC,Chicago Cubs,92,70,0.568,103,58,0.64,1,1,0,0,0
+Theo Epstein,2018,CHC,Chicago Cubs,95,68,0.583,92,70,0.568,1,0,1,0,0
+Theo Epstein,2019,CHC,Chicago Cubs,84,78,0.519,95,68,0.583,0,0,0,0,0
+Theo Epstein,2020,CHC,Chicago Cubs,34,26,0.567,84,78,0.519,1,1,0,0,0
+Tim Purpura,2005,HOU,Houston Astros,89,73,0.549,92,70,0.568,1,0,1,1,0
+Tim Purpura,2006,HOU,Houston Astros,82,80,0.506,89,73,0.549,0,0,0,0,0
+Tim Purpura,2007,HOU,Houston Astros,73,89,0.451,82,80,0.506,0,0,0,0,0
+Tony Reagins,2008,ANA,Los Angeles Angels of Anaheim,100,62,0.617,94,68,0.58,1,1,0,0,0
+Tony Reagins,2009,ANA,Los Angeles Angels of Anaheim,97,65,0.599,100,62,0.617,1,1,0,0,0
+Tony Reagins,2010,ANA,Los Angeles Angels of Anaheim,80,82,0.494,97,65,0.599,0,0,0,0,0
+Tony Reagins,2011,ANA,Los Angeles Angels of Anaheim,86,76,0.531,80,82,0.494,0,0,0,0,0
+Walt Jocketty,1995,STL,St. Louis Cardinals,62,81,0.434,53,61,0.465,0,0,0,0,0
+Walt Jocketty,1996,STL,St. Louis Cardinals,88,74,0.543,62,81,0.434,1,1,0,0,0
+Walt Jocketty,1997,STL,St. Louis Cardinals,73,89,0.451,88,74,0.543,0,0,0,0,0
+Walt Jocketty,1998,STL,St. Louis Cardinals,83,79,0.512,73,89,0.451,0,0,0,0,0
+Walt Jocketty,1999,STL,St. Louis Cardinals,75,86,0.466,83,79,0.512,0,0,0,0,0
+Walt Jocketty,2000,STL,St. Louis Cardinals,95,67,0.586,75,86,0.466,1,1,0,0,0
+Walt Jocketty,2001,STL,St. Louis Cardinals,93,69,0.574,95,67,0.586,1,0,1,0,0
+Walt Jocketty,2002,STL,St. Louis Cardinals,97,65,0.599,93,69,0.574,1,1,0,0,0
+Walt Jocketty,2003,STL,St. Louis Cardinals,85,77,0.525,97,65,0.599,0,0,0,0,0
+Walt Jocketty,2004,STL,St. Louis Cardinals,105,57,0.648,85,77,0.525,1,1,0,1,0
+Walt Jocketty,2005,STL,St. Louis Cardinals,100,62,0.617,105,57,0.648,1,1,0,0,0
+Walt Jocketty,2006,STL,St. Louis Cardinals,83,78,0.516,100,62,0.617,1,1,0,1,1
+Walt Jocketty,2007,STL,St. Louis Cardinals,78,84,0.481,83,78,0.516,0,0,0,0,0
+Walt Jocketty,2009,CIN,Cincinnati Reds,78,84,0.481,74,88,0.457,0,0,0,0,0
+Walt Jocketty,2010,CIN,Cincinnati Reds,91,71,0.562,78,84,0.481,1,1,0,0,0
+Walt Jocketty,2011,CIN,Cincinnati Reds,79,83,0.488,91,71,0.562,0,0,0,0,0
+Walt Jocketty,2012,CIN,Cincinnati Reds,97,65,0.599,79,83,0.488,1,1,0,0,0
+Walt Jocketty,2013,CIN,Cincinnati Reds,90,72,0.556,97,65,0.599,1,0,1,0,0
+Walt Jocketty,2014,CIN,Cincinnati Reds,76,86,0.469,90,72,0.556,0,0,0,0,0
+Walt Jocketty,2015,CIN,Cincinnati Reds,64,98,0.395,76,86,0.469,0,0,0,0,0
+Walt Jocketty,2016,CIN,Cincinnati Reds,68,94,0.42,64,98,0.395,0,0,0,0,0
+Wayne Krivsky,2006,CIN,Cincinnati Reds,80,82,0.494,73,89,0.451,0,0,0,0,0
+Wayne Krivsky,2007,CIN,Cincinnati Reds,72,90,0.444,80,82,0.494,0,0,0,0,0
+Wayne Krivsky,2008,CIN,Cincinnati Reds,74,88,0.457,72,90,0.444,0,0,0,0,0
+Woody Woodward,1989,SEA,Seattle Mariners,73,89,0.451,68,93,0.422,0,0,0,0,0
+Woody Woodward,1990,SEA,Seattle Mariners,77,85,0.475,73,89,0.451,0,0,0,0,0
+Woody Woodward,1991,SEA,Seattle Mariners,83,79,0.512,77,85,0.475,0,0,0,0,0
+Woody Woodward,1992,SEA,Seattle Mariners,64,98,0.395,83,79,0.512,0,0,0,0,0
+Woody Woodward,1993,SEA,Seattle Mariners,82,80,0.506,64,98,0.395,0,0,0,0,0
+Woody Woodward,1994,SEA,Seattle Mariners,49,63,0.438,82,80,0.506,0,0,0,0,0
+Woody Woodward,1995,SEA,Seattle Mariners,79,66,0.545,49,63,0.438,1,1,0,0,0
+Woody Woodward,1996,SEA,Seattle Mariners,85,76,0.528,79,66,0.545,0,0,0,0,0
+Woody Woodward,1997,SEA,Seattle Mariners,90,72,0.556,85,76,0.528,1,1,0,0,0
+Woody Woodward,1998,SEA,Seattle Mariners,76,85,0.472,90,72,0.556,0,0,0,0,0
+Woody Woodward,1999,SEA,Seattle Mariners,79,83,0.488,76,85,0.472,0,0,0,0,0
